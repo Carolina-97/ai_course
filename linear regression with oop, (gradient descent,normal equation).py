@@ -89,7 +89,7 @@ plt.plot(X, y_pred_line, color='black', linewidth=2, label='Prediction')
 # chgitem vonc plot anem normal eq_i stacac funkcian plt.plot(X, ??,color="red")
 plt.show()
 
-
+#hi
 # In[ ]:
 
 
